@@ -1,0 +1,7 @@
+{
+  "name": "tgufu2020",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
